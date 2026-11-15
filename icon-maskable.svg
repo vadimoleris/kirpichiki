@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="cinnabar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#cf4534"/>
+      <stop offset="1" stop-color="#a92f22"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#cinnabar)"/>
+  <g fill="none" stroke="#fbf6ec" stroke-linecap="round"
+     transform="translate(256,256) scale(0.66) translate(-256,-256)">
+    <path d="M140 192 H372" stroke-width="34"/>
+    <path d="M256 100 V412" stroke-width="34"/>
+    <path d="M250 198 C214 268 186 318 146 372" stroke-width="32"/>
+    <path d="M262 198 C298 268 326 318 366 372" stroke-width="32"/>
+  </g>
+</svg>
